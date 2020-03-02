@@ -1,0 +1,13 @@
+drop table MAT_ART;
+drop table INS_PRO;
+drop table MAT_PRO;
+drop table EMP_EMP;
+drop table EMP_TRA_PRO;
+drop table EMP_INV_PRO;
+drop table MATERIA_NO_ESPECIAL;
+drop table MATERIA_ESPECIAL;
+drop table MATERIA;
+drop table ARTICULO;
+drop table INSTITUCION2;
+drop table PROYECTO2;
+drop table EMPLE;
